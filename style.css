@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 body {
     overflow-x: hidden;
 }
 
+=======
+>>>>>>> 13c06b6d9e14b5dba0393b8959962e866fea2c2c
 header {
     text-align: center;
     background-color: #e4572e;
@@ -9,7 +12,11 @@ header {
 }
 
 header h1 {
+<<<<<<< HEAD
     text-shadow: 3px 3px 0 white;
+=======
+    text-shadow: 3px 3px 0 0 white;
+>>>>>>> 13c06b6d9e14b5dba0393b8959962e866fea2c2c
 }
 
 header h2 {
@@ -23,6 +30,7 @@ main {
 }
 
 article {
+<<<<<<< HEAD
     display: block;
     align-self: center;
     border: 4px solid #050401;
@@ -30,6 +38,13 @@ article {
     width: 750px;
     overflow: hidden;
     margin: auto auto 10px auto;
+=======
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    width: 800px;
+    overflow: hidden;
+    margin: 10px 450px;
+>>>>>>> 13c06b6d9e14b5dba0393b8959962e866fea2c2c
 }
 
 img {
